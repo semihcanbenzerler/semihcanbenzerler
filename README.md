@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @semihcanbenzerler
-- 👀 I’m interested in 3D Modelling and Developing Games.
-- 🌱 I’m currently learning Beginner Level Unity 3D and Beginner Level Blender 3D
+- 🌱 I’m currently designing video games and writing GDDs.
 - 📫 How to reach me semih.benzerler@gmail.com or semih.benzerler2@gmail.com
 
 
